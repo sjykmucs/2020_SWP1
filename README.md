@@ -1,2 +1,2 @@
-20203082 	So Jiyeon
+So Jiyeon 20203082
 Kookmin Univ. SW(CS)
